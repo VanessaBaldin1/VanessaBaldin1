@@ -32,12 +32,6 @@ Bem-vindo(a) ao meu cantinho digital no GitHub! Sou uma entusiasta de **UX Desig
 <img src="https://raw.githubusercontent.com/vanessabaldin1/vanessabaldin1/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
-
-
-
-
 ---
 
 ## 🚀 Sobre Mim

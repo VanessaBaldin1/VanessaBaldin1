@@ -8,7 +8,10 @@ Bem-vindo(a) ao meu cantinho digital no GitHub! Sou uma entusiasta de **UX Desig
 
 Com um pé no design e outro no desenvolvimento, minha jornada me permite abraçar o ciclo completo de criação de produtos. Acredito que a melhor tecnologia é aquela que serve ao usuário de forma transparente e eficaz.
 
-<img src="https://media.giphy.com/media/LmNwrBhejkK9EFP50j/giphy.gif" width="400" alt="GIF de design e código se unindo">
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=ff69b4&lines=UX+com+propósito.;IA+com+acessibilidade.;DevUX+com+impacto+social.;Branding+com+experiência+inteligente.;Software+mais+humano.&center=true&width=500" />
+</div>
+
 
 Minha paixão está em:
 
@@ -101,7 +104,7 @@ Adoraria trocar ideias ou colaborar em novos projetos!
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/vanessabaldin1/vanessabaldin1/main/banner.png" alt="Banner Vanessa Baldin" width="100%" />
+  <img src="https://komarev.com/ghpvc/?username=seu-username&label=Visualizações%20no%20Perfil&color=0e75b6&style=flat" alt="Visualizações no Perfil"/>
 </div>
 
 > _“A tecnologia é mais poderosa quando conecta pessoas com empatia e propósito.”_

@@ -1,6 +1,6 @@
 ## 💜 Olá, meu nome é Vanessa Baldin!
 
-Bem-vindo(a) ao meu cantinho digital no GitHub! Sou uma entusiasta de **UX Design** e uma **Desenvolvedor(a) Fullstack** apaixonada por transformar ideias complexas em experiências digitais intuitivas e funcionais. Meu objetivo é construir pontes entre a estética visual, a usabilidade e a robustez do código.
+Bem-vindo(a) ao meu cantinho digital no GitHub! Sou uma entusiasta de **UX Design** e uma **Desenvolvedora Fullstack** apaixonada por transformar ideias complexas em experiências digitais intuitivas e funcionais. Meu objetivo é construir pontes entre a estética visual, a usabilidade e a robustez do código.
 
 ###
 

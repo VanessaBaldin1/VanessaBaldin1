@@ -94,8 +94,10 @@ Aqui estão alguns projetos que estou desenvolvendo ou que me deixam animada!
 | Projeto | Descrição | Tecnologias |
 |--------|-----------|-------------|
 | [`Futuro Circular`](https://vanessabaldin1.github.io/FuturoCircular) | Plataforma de economia circular com foco em inclusão social. | UX Design, HTML, CSS, IA |
-| [`Projeto Pessoal`](https://github.com/VanessaBaldin1/projeto_diario) | Site pessoal com tema acessível e design responsivo. | HTML, CSS, GitHub Pages |
+| [`Projeto Pessoal`](https://vanessabaldin1.github.io/projeto_diario/) | Site pessoal com tema acessível e design responsivo. | HTML, CSS, GitHub Pages |
 | [`EcoBeauty Planner`](https://vanessabaldin1.github.io/EcoBeautyPlanner/) |EcoBeauty Planner: Diário digital com tema acessível, design responsivo e funcionalidades interativas para uma rotina de beleza sustentável. | HTML, CSS, JavaScript, GitHub Pages |
+| [`Pixel Pioneers`](https://vanessabaldin1.github.io/pixel-pioneers/index.html) | Plataforma gamer contém o código-fonte de um site modelo desenvolvido para o GameDev Showcase 2025
+
 
 
 <div align="center">
